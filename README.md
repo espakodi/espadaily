@@ -109,7 +109,7 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 
 ---
 
-### ⚠️ Aviso sobre Publicaciones y Crecimiento
+## ⚠️ Aviso sobre Publicaciones y Crecimiento
 
 - Los autores de AtresDaily **no desean** que se publiquen artículos, reseñas o tutoriales en blogs, periódicos digitales, revistas online, YouTube, Twitter/X, Facebook, Reddit, foros públicos ni TikTok u otros medios indexados sin autorización expresa.
 - Este proyecto crece por recomendación directa entre usuarios.
