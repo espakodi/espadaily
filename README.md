@@ -52,7 +52,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 - **Explorador Unificado**: Navega por series, programas, documentales e informativos de televisión española desde una sola interfaz.
 - **Buscador Universal**: ¿No encuentras lo que buscas en los menús? Usa la búsqueda manual para localizar películas, series internacionales o cualquier vídeo en la red.
 - **Abrir URL**: Pega cualquier enlace (Dаіlуmоtіоn, YouTube, m3u8, mp4...) y reprodúcelo directamente en Kodi con detección inteligente.
-- **TV en Directo**: Acceso rápido a canales TDT en vivo y listas IPTV personalizadas.
+- **TV en Directo**: Acceso rápido a canales TDT en vivo y listas IPTV.
 - **Listas de Trakt.tv**: Explora listas de películas y series de la comunidad Trakt.
 - **Tendencias y Top Películas**: Descubre lo más visto y las películas mejor valoradas de la historia.
 - **Integración con Palantir**: Conecta búsquedas con Palantir 3 para ampliar resultados.
