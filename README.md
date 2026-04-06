@@ -4,7 +4,7 @@
 
 ## Descripción
 
-**EspaDaily** es un addon para Kodi que combina la navegación por catálogos de televisión española con un buscador universal de vídeo. Permite explorar la estructura de las principales plataformas de TV en España, buscando vídeos públicos disponibles en internet para cada contenido.
+**EspaDaily** es un addon para Kodi que combina la navegación por catálogos de televisión española con un buscador universal de vídeo. Permite explorar que contenido tiene las principales plataformas de TV en España, y buscar vídeos públicos disponibles en internet para cada contenido.
 
 ### ⚠️ Aviso importante
 
@@ -15,7 +15,6 @@
 
 <p align="center">
   <!-- Sube tus capturas a la carpeta 'capturas' y descomenta estas líneas -->
-  <img src="capturas/screenshot1.png" alt="EspaDaily en Kodi" width="600">
   <!-- <br><br> -->
   <!-- <img src="capturas/screenshot2.png" alt="Categorías" width="600"> -->
 </p>
@@ -49,23 +48,16 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 
 ## 🧩 Características
 
-- **Explorador Unificado**: Navega por series, programas, documentales e informativos de televisión española desde una sola interfaz.
-- **Buscador Universal**: ¿No encuentras lo que buscas en los menús? Usa la búsqueda manual para localizar películas, series internacionales o cualquier vídeo en la red.
 - **Abrir URL**: Pega cualquier enlace (Dаіlуmоtіоn, YouTube, m3u8, mp4...) y reprodúcelo directamente en Kodi con detección inteligente.
 - **TV en Directo**: Acceso rápido a canales TDT en vivo y listas IPTV.
-- **Listas de Trakt.tv**: Explora listas de películas y series de la comunidad Trakt.
-- **Tendencias y Top Películas**: Descubre lo más visto y las películas mejor valoradas de la historia.
 - **Instantáneas y Backups**: Crea copias de seguridad de los menús y de tu configuración para portabilidad total.
 - **Caché Inteligente**: Guarda los menús en tu dispositivo para una navegación instantánea, sin esperas de carga.
 - **Gestión de Favoritos e Historial**: Guarda tus vídeos preferidos y organízalos de forma avanzada.
 - **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido a tu gusto.
 - **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente.
-- **Filtros Anti-Trailers**: Evita clips cortos y encuentra capítulos completos (Modo Cine, Solo Recientes...).
-- **Descargas**: Guarda vídeos para verlos offline (cuando el servidor lo permite).
 - **Historial de Visionado**: Registro automático de los vídeos que has reproducido para retomarlos rápidamente.
 - **Playlists de Dаіlуmоtіоn**: Busca canales de Dаіlуmоtіоn y explora sus playlists organizadas.
-- **Opciones Avanzadas**: Panel completo de configuración con contexto multinivel de búsqueda, priorización por precisión o duración, filtro temporal, modos anti-errores y múltiples modos de descarga.
-- **Privacidad Responsable**: Solo se envía un identificador anónimo para contar instalaciones activas. Sin datos personales ni seguimiento de uso.
+- **Privacidad Responsable**: No se recopilan datos personales.
 
 ---
 
@@ -87,7 +79,8 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 5.  **Voluntad de Cooperación**: Disposición total para colaborar con titulares de derechos para la retirada inmediata de enlaces específicos.
 6.  Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 7.  **Prohibición Estricta de Comercialización**: Queda terminantemente **PROHIBIDA** la inclusión, distribución o instalación pre-configurada de este addon en dispositivos ("TV Boxes", "Kodi Boxes", Android TV, etc.) destinados a la venta o lucro comercial. Este proyecto no tiene fines de lucro ni genera ingresos de ninguna clase.
-8. **Sin Afiliación**: Este proyecto es independiente y no está afiliado ni avalado de ninguna manera por el equipo de Kodi o la Fundación XBMC.
+9.  **No se recoplan datos personales**: No se recopilan datos personales: Solo se recopila información de uso legítimo anónima (versión de Kodi, sistema operativo y versión del addon) para saber los porcentajes.
+10. **Sin Afiliación**: Este proyecto es independiente y no está afiliado ni avalado de ninguna manera por el equipo de Kodi o la Fundación XBMC.
 
 ---
 
@@ -98,15 +91,15 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 **Webs:**
 - [FullStackCurso](https://github.com/fullstackcurso)
 - [EspaKodi](https://github.com/espakodi)
+- [EspaTV](https://github.com/espatv)
 - [LoioLoio](https://github.com/loioloio)
 
 **Telegram:**
 - [Canal EspaDaily](https://t.me/espadaily)
-- [Canal EspaKodi](https://t.me/espakodi)
+- [Chat EspaKodi](https://t.me/espakodi)
 
 **Contacto directo:**
 - [Telegram personal](https://t.me/rubensdfa1labernt)
-- [Formulario](https://fullstackcurso.github.io/donaciones/#mensaje)
 
 ---
 
