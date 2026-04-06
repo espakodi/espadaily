@@ -11,8 +11,6 @@
 - Este addon **NO aloja ningún contenido**
 - Solo actúa como **buscador de vídeos** en plataformas públicas
 
-<br>
-
 <p align="center">
   <!-- Sube tus capturas a la carpeta 'capturas' y descomenta estas líneas -->
   <!-- <br><br> -->
