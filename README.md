@@ -17,7 +17,6 @@
   <!-- <img src="capturas/screenshot2.png" alt="Categorías" width="600"> -->
 </p>
 
----
 
 ## 📥 Instalación
 
@@ -42,7 +41,6 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 2. En Kodi, ve a **Add-ons > Icono de la cajita > Instalar desde archivo zip**.
 3. Busca en tu dispositivo el archivo descargado y selecciónalo para completar la instalación.
 
----
 
 ## 🧩 Características
 
@@ -57,14 +55,12 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 - **Playlists de Dаіlуmоtіоn**: Busca canales de Dаіlуmоtіоn y explora sus playlists organizadas.
 - **Privacidad Responsable**: No se recopilan datos personales.
 
----
 
 ## 📋 Requisitos
 
 - Kodi 19 (Matrix) o superior
 - Conexión a internet
 
----
 
 ## ⚖️ Aviso Legal
 
@@ -80,17 +76,16 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 9.  **No se recoplan datos personales**: No se recopilan datos personales: Solo se recopila información de uso legítimo anónima (versión de Kodi, sistema operativo y versión del addon) para saber los porcentajes.
 10. **Sin Afiliación**: Este proyecto es independiente y no está afiliado ni avalado de ninguna manera por el equipo de Kodi o la Fundación XBMC.
 
----
 
 ## 💬 Contacto y Soporte
 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto:
 
 **Webs:**
+- [EspaTV (REPOSITORIO PRINCIPAL](https://github.com/espatv)
 - [FullStackCurso](https://github.com/fullstackcurso)
 - [EspaKodi](https://github.com/espakodi)
-- [EspaTV](https://github.com/espatv)
-- [LoioLoio](https://github.com/loioloio)
+- [LoioLoio (INTERNACIONAL)](https://github.com/loioloio)
 
 **Telegram:**
 - [Canal EspaDaily](https://t.me/espadaily)
