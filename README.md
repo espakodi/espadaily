@@ -6,7 +6,7 @@
 
 - Este addon **NO aloja ningún contenido**.
 - **Privacidad Responsable**: No recopila datos personales.
-- **Sin ánimo de lucro**.
+- **Es un proyecto independiente desarrollado sin ánimo de lucro.**.
 
 
 <p align="center">
@@ -16,8 +16,6 @@
 </p>
 
 ## Aviso Legal
-
-**EspaDaily** es un proyecto independiente desarrollado sin ánimo de lucro.
 
 1.  **No Afiliación**: Este software NO tiene relación con ninguna entidad oficial.
 2.  **Buscador**: El addon NO aloja, sube ni distribuye contenido protegido. Actúa simplemente como un buscador y reproductor de vídeos disponibles públicamente en internet, los cuales son fácilmente accesibles desde cualquier navegador web común y corriente, sin eludir medidas de seguridad ni muros de pago.
