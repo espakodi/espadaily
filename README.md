@@ -27,4 +27,4 @@
 
 ---
 
-![Animación Logo AtresDaily](resources/atresdailylogo.gif)
+![Animación Logo EspaDaily](resources/espadailylogo.gif)
