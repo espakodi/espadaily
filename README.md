@@ -2,7 +2,7 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
-### Aviso importante
+## Aviso importante
 
 - Este addon **NO aloja ningún contenido**
 - Solo actúa como **buscador de vídeos** en plataformas públicas
