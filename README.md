@@ -24,7 +24,7 @@ Repositorio: https://fullstackcurso.github.io/espadaily/
 3.  **Solo Interfaz**: El código público solo dibuja los menús de Kodi. Los vídeos provienen de conexiones externas.
 6.  Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 7.  **Prohibición Estricta de Comercialización**: Queda terminantemente **PROHIBIDA** la inclusión, distribución o instalación pre-configurada de este addon en dispositivos ("TV Boxes", "Kodi Boxes", Android TV, etc.) destinados a la venta o lucro comercial. Este proyecto no tiene fines de lucro ni genera ingresos de ninguna clase.
-9.  **No recopila datos personales**: El addon únicamente está programado para recoger estadísticas de uso anónimas (versión de Kodi, sistema operativo y versión del addon) para saber organizar el desarrollo y soporte. Aunque ninguna ley obliga a avisar sobre la recogida de datos no personales, no cuesta nada ser honestos.
+9.  **No recopila datos personales**: El addon únicamente está programado para recoger estadísticas de uso anónimas (versión de Kodi, sistema operativo y versión del addon) para saber organizar el desarrollo y soporte.
 10. **Sin Afiliación**: Este proyecto es independiente y no está afiliado ni avalado de ninguna manera por el equipo de Kodi o la Fundación XBMC.
 
 ---
