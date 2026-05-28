@@ -1,25 +1,11 @@
 {
     "messages": [
         {
-            "id": "welcome_v4",
-            "title": "¡Bienvenido a EspaDaily!",
-            "text": "Síguenos y mantente al tanto de las novedades:\n\nWebs:\n- github.com/fullstackcurso\n\nTelegram:\n- t.me/espadaily\n- t.me/espatv\n\nContacto:\n- t.me/rubensdfa1laberot",
+            "id": "welcome_v5",
+            "title": "¡Ya está disponible AtresDaily V3!",
+            "text": "AtresDaily vuelve a ser la mejor opción para A3Player\n\nTelegram: t.me/espadaily\n\nContacto: t.me/rubensdfa1laberot\n\nWeb: loiolo.io",
             "color": "yellow",
-            "date": "2026-03-17"
+            "date": "2026-05-28"
         },
-        {
-            "id": "flow_favmanager_v1",
-            "title": "Flow FavManager",
-            "text": "Presentamos Flow FavManager: gestor avanzado de favoritos para Kodi. Organízalos de forma muy rápida y sencilla, crea copias de seguridad y mucho más.\n\nMantente al tanto de las novedades:\nhttps://t.me/espadaily\nhttps://github.com/fullstackcurso/",
-            "color": "cyan",
-            "date": "2026-01-21"
-        },
-        {
-            "id": "atresdaily_actualizacion_v2",
-            "title": "Nueva Versión: AtresDaily v2",
-            "text": "Novedades:\nhttps://t.me/espadaily\n\n(Este archivo de texto se lee desde GitHub)",
-            "color": "green",
-            "date": "2026-01-21"
-        }
     ]
 }
