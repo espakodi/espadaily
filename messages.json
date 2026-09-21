@@ -1,11 +1,20 @@
 {
     "messages": [
         {
-            "id": "welcome_v7",
-            "title": "Apps en t.me/espakodi",
-            "text": "En Telegram t.me/espakodi podrás encontrar las aplicaciones de EspaKodi para Android y Windows. Seguro que te sorprenderán.",
+            "id": "espakodi_app_012",
+            "title": "ESPAKODI 0.1.2 APP",
+            "text": "Enlace: [COLOR deepskyblue]https://espakodi.github.io/apk/[/COLOR]\n\nCódigos Downloader:\n • [COLOR skyblue]64 bits:[/COLOR] [B]5433357[/B]\n • [COLOR skyblue]32 bits:[/COLOR] [B]1208875[/B]\n\nTelegram oficial: [COLOR deepskyblue]t.me/espakodi[/COLOR]\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaDaily.[/COLOR]",
             "color": "yellow",
-            "date": "2026-08-2"
+            "date": "2026-09-21",
+            "repeat": 1
         },
+        {
+            "id": "ekhorus_addon_201",
+            "title": "EKHORUS 2.0.1",
+            "text": "Actualización del addon EKHorus.\n\nEnlace: [COLOR deepskyblue]https://espakodi.github.io/EKHorus/[/COLOR]\nCódigo Downloader: [B]2047082[/B]\n\nTelegram oficial: [COLOR deepskyblue]t.me/espakodi[/COLOR]\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaDaily.[/COLOR]",
+            "color": "gold",
+            "date": "2026-09-21",
+            "repeat": 1
+        }
     ]
 }
