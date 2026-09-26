@@ -1,6 +1,14 @@
 {
     "messages": [
         {
+            "id": "espadaily_v550",
+            "title": "EspaDaily 5.5.0",
+            "text": "La ultima version disponible es la 5.5.0\n\nCanal de Telegram:\n[COLOR deepskyblue]t.me/espakodi[/COLOR]\n------------------------------------------------------------\n\n[COLOR grey]Fuente de este mensaje: Repositorio publico de EspaDaily.[/COLOR]",
+            "color": "deepskyblue",
+            "date": "2026-09-26",
+            "repeat": 1
+        },
+        {
             "id": "espakodi_app_012",
             "title": "ESPAKODI 0.1.2 APP",
             "text": "Enlace: [COLOR deepskyblue]https://espakodi.github.io/apk/[/COLOR]\n\nCódigos Downloader:\n • [COLOR skyblue]64 bits:[/COLOR] [B]5433357[/B]\n • [COLOR skyblue]32 bits:[/COLOR] [B]1208875[/B]\n\nTelegram oficial: [COLOR deepskyblue]t.me/espakodi[/COLOR]\n[COLOR grey]Fuente de este mensaje: Repositorio público de EspaDaily.[/COLOR]",
