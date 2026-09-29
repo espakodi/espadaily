@@ -8,7 +8,7 @@ Se declara explícitamente que este proyecto es una iniciativa de desarrollo de 
 
 NATURALEZA TÉCNICA Y OBJETO
 Este software ("EspaDaily") es una herramienta que actúa como interfaz de presentación entre Kodi y plataformas de contenido audiovisual, adaptando para este entorno multimedia información y referencias procedentes de contenido accesible públicamente en las mismas condiciones técnicas en que lo haría cualquier navegador web convencional.
-Este addon no aloja contenido ni distribuye enlaces, sino que realiza búsquedas en tiempo real. No existe una base de datos interna de enlaces ni un repositorio precargado, ya que cada resultado se obtiene dinámicamente al ejecutar la consulta del usuario.
+Este addon no aloja contenido. La mayor parte de los resultados se obtiene dinámicamente al ejecutar la consulta del usuario, sin una base de datos interna de enlaces ni un repositorio precargado. Incluye además unas pocas listas de canales y emisoras de acceso libre publicadas y mantenidas por proyectos de terceros (TDTChannels, iptv-org, Free-TV, apsattv, app-m3u-generator y Radio Browser); el addon solo enlaza a ellas, son de acceso público para cualquiera y recogen canales y emisoras emitidos en abierto o gratuitos.
 Cualquier resultado mostrado es públicamente accesible mediante un navegador web convencional. El addon no aporta acceso privilegiado ni distinto del que tendría cualquier usuario navegando manualmente con sus propias credenciales.
 
 AUSENCIA DE ALOJAMIENTO Y DISTRIBUCIÓN
